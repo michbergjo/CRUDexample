@@ -2,7 +2,7 @@
 This project was built to improve basic understanding of CRUD functionality in Spring Boot 
 
 ## Usage
-Practice with and gain a better understanding of CRUD functionality and REST APIs
+Practice with and gain a better understanding of CRUD functionality
 
 ## Install
 To run this project, you must have Java 8+ installed on your computer.  From the command line: 
